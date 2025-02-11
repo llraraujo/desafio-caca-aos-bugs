@@ -8,13 +8,8 @@ Depuração e solução de bugs, pensamento crítico e analítico, segurança e 
 
 ## Participantes
 ### 🚀 Líder Técnico
-[NOME e GITHUB]
+[Lucas R. Araujo](https://github.com/llraraujo)
 
-### 👻 Caçadores de Bugs
-* [NOME e GITHUB]
-* [NOME e GITHUB]
-* [NOME e GITHUB]
-* [NOME e GITHUB]
 
 ## ⚙️ Tecnologias
 * C# 12
@@ -31,7 +26,19 @@ Depuração e solução de bugs, pensamento crítico e analítico, segurança e 
 * Muito conhecimento técnico
 
 ## 🧪 Como testar o projeto
-[DESCREVER COMO EXECUTAR O PROJETO]
+1. Clone o repositório:
+   ```
+   git clone https://github.com/llraraujo/grafos.git
+   cd seu-repositorio
+   ```
+2. Compile o Projeto
+	```
+    dotnet build 
+    ```
+3. Execute o Programa
+	```
+	dotnetrun
+    ```
 
 # 💜 Participe
 Quer participar dos próximos desafios? Junte-se a [maior comunidade .NET do Brasil 🇧🇷 💜](https://balta.io/discord)
